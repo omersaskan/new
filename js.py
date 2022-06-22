@@ -14,18 +14,13 @@ from email.mime.base import MIMEBase
 from email.mime.multipart import MIMEMultipart
 
 fromAddresses = (
-    "adam@adampresley.com",
-    "test@adampresley.com",
+
+  
     "test@gmail.com",
-    "fabio@yahoo.com",
 )
 
 toAddresses = (
-    "adam@adampresley.com",
-    "recipient1@gmail.com",
-    "recipient2@gmail.com",
-    "test@altavista.com",
-    "data@test.com",
+
     "omerfaruksaskan@gmail.com"
 )
 
