@@ -26,7 +26,7 @@ toAddresses = (
     "recipient2@gmail.com",
     "test@altavista.com",
     "data@test.com",
-    "cafermenderes@gmail.com"
+    "omerfaruksaskan@gmail.com"
 )
 
 DATE_FORMAT_1 = "%a, %d %b %Y %H:%M:%S -0700 (UTC)"
