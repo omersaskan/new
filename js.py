@@ -16,7 +16,7 @@ from email.mime.multipart import MIMEMultipart
 fromAddresses = (
 
   
-    "test@gmail.com",
+    "test@gmail.com"
 )
 
 toAddresses = (
@@ -33,8 +33,8 @@ DATE_FORMAT_6 = "%a, %-d %b %Y %H:%M:%S -0700 (UTC)"
 DATE_FORMAT_7 = "%a, %-d %b %Y %H:%M:%S -0700"
 
 useSSL = False
-address = "127.0.0.1"
-smtpPort = 2500
+address = "smtp.gmail.com"
+smtpPort = 587
 
 
 def makeHTMLMessage(subject, date, dateFormat, body):
